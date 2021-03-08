@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.011681cb.chunk.css",
+    "main.js": "/portfolio/static/js/main.b2f6d809.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.b2f6d809.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.a9f76519.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.a9f76519.js.map",
+    "static/css/2.ec02d681.chunk.css": "/portfolio/static/css/2.ec02d681.chunk.css",
+    "static/js/2.98ea29ac.chunk.js": "/portfolio/static/js/2.98ea29ac.chunk.js",
+    "static/js/2.98ea29ac.chunk.js.map": "/portfolio/static/js/2.98ea29ac.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "static/css/2.ec02d681.chunk.css.map": "/portfolio/static/css/2.ec02d681.chunk.css.map",
+    "static/css/main.011681cb.chunk.css.map": "/portfolio/static/css/main.011681cb.chunk.css.map",
+    "static/js/2.98ea29ac.chunk.js.LICENSE.txt": "/portfolio/static/js/2.98ea29ac.chunk.js.LICENSE.txt",
+    "static/media/css3.0531b339.png": "/portfolio/static/media/css3.0531b339.png",
+    "static/media/facundo.45da49cf.png": "/portfolio/static/media/facundo.45da49cf.png",
+    "static/media/flutter.40fec763.png": "/portfolio/static/media/flutter.40fec763.png",
+    "static/media/html5.03851980.png": "/portfolio/static/media/html5.03851980.png",
+    "static/media/java.9ed54aae.png": "/portfolio/static/media/java.9ed54aae.png",
+    "static/media/javascript.2c53a230.png": "/portfolio/static/media/javascript.2c53a230.png",
+    "static/media/lazcanoweb.7a309175.png": "/portfolio/static/media/lazcanoweb.7a309175.png",
+    "static/media/mongodb.a99bc52d.png": "/portfolio/static/media/mongodb.a99bc52d.png",
+    "static/media/mysql.6e42b2a0.png": "/portfolio/static/media/mysql.6e42b2a0.png",
+    "static/media/nodejs.abfaef34.png": "/portfolio/static/media/nodejs.abfaef34.png",
+    "static/media/peliculas.45e91043.mp4": "/portfolio/static/media/peliculas.45e91043.mp4",
+    "static/media/php.735648f9.png": "/portfolio/static/media/php.735648f9.png",
+    "static/media/qr.6d997ecf.mp4": "/portfolio/static/media/qr.6d997ecf.mp4",
+    "static/media/react.61c7a9cc.png": "/portfolio/static/media/react.61c7a9cc.png",
+    "static/media/reactnative.c195d5a5.png": "/portfolio/static/media/reactnative.c195d5a5.png",
+    "static/media/sql.7e08be19.png": "/portfolio/static/media/sql.7e08be19.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a9f76519.js",
+    "static/css/2.ec02d681.chunk.css",
+    "static/js/2.98ea29ac.chunk.js",
+    "static/css/main.011681cb.chunk.css",
+    "static/js/main.b2f6d809.chunk.js"
+  ]
+}
